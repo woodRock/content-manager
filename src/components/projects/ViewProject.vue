@@ -10,7 +10,7 @@
       </li>
       <li class="collection-item">{{ project.description }}</li>
       <li class="collection-item">
-        <a :href="project.link"></a>{{ project.link }}
+        <a :href="project.link">{{ project.link }}</a>
       </li>
       <li class="collection-item">{{ project.time }}</li>
     </ul>
