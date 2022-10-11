@@ -19,5 +19,5 @@ $ npm i
 The application can be run on a local machine via 
 
 ```bash 
-$ npm run start 
+$ npm run serve 
 ```
