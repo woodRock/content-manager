@@ -7,3 +7,17 @@
 Vue.js + Firebase application to manage the projects on my portfolio site
 
 N.B. Uses firebase authentication for WRITE access to database
+
+## Installation 
+
+To install the necessary dependencies run
+
+```bash
+$ npm i 
+```
+
+The application can be run on a local machine via 
+
+```bash 
+$ npm run start 
+```
